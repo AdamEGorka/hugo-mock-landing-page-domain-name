@@ -18,7 +18,7 @@ Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
 - 🛡️ Security aware
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  As a luxury outerwear brand, I want high-end zippers with weather-resistant features, such as water repellency and corrosion resistance, to maintain functionality and appearance in harsh conditions.
 
 - ⚡ Fast by default
 
