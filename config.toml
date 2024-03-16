@@ -1,4 +1,4 @@
-baseURL = 'https://adamEGorka.github.io/hugo-mock-landing-page/'
+baseURL = 'https://adamegorka.github.io/hugo-mock-landing-page-autodeployed/'
 title = "ZIP"
 author = "Adam Gorka"
 copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
